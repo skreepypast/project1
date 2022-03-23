@@ -24,9 +24,10 @@ i{
     
 }
 .button {
-    width: 100px;
+    width: 150px;
     height: 50px;
-    margin-right: inherit;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 * {
 margin: 0;
